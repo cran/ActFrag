@@ -36,7 +36,7 @@
 #' mean_bout (mean bout duration),
 #' TP (between states transition probability),
 #' Gini (gini index),
-#' power (alapha parameter for power law distribution),
+#' power (alapha parameter for power law distribution)
 #' hazard (average hazard function)
 #'
 #'

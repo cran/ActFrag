@@ -2,7 +2,7 @@ Package: ActFrag
 Type: Package
 Title: Activity Fragmentation Metrics Extracted from Minute Level
         Activity Data
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person(given = "Junrui", family = "Di", 
         role = c("aut", "cre"), email = "dijunrui@gmail.com"),
@@ -26,11 +26,11 @@ ByteCompile: true
 VignetteBuilder: knitr
 URL: https://github.com/junruidi/ActFrag
 BugReports: https://github.com/junruidi/ActFrag/issues
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2019-06-27 13:55:30 UTC; dij02
+Packaged: 2020-02-11 18:38:32 UTC; dij02
 Author: Junrui Di [aut, cre],
   John Muschelli [aut],
   Vadim zipunnikov [aut]
 Repository: CRAN
-Date/Publication: 2019-06-28 16:00:06 UTC
+Date/Publication: 2020-02-11 19:00:10 UTC

@@ -4,8 +4,13 @@
 \alias{fragmentation}
 \title{Fragmentation Metrics}
 \usage{
-fragmentation(x, w, thresh, bout.length = 1, metrics = c("mean_bout",
-  "TP", "Gini", "power", "hazard", "all"))
+fragmentation(
+  x,
+  w,
+  thresh,
+  bout.length = 1,
+  metrics = c("mean_bout", "TP", "Gini", "power", "hazard", "all")
+)
 }
 \arguments{
 \item{x}{\code{integer} \code{vector} of activity data.}
@@ -41,7 +46,7 @@ Metrics include
 mean_bout (mean bout duration),
 TP (between states transition probability),
 Gini (gini index),
-power (alapha parameter for power law distribution),
+power (alapha parameter for power law distribution)
 hazard (average hazard function)
 }
 \examples{
